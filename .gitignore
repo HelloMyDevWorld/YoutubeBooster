@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/YoutubeBooster/v14
+/packages
+/Xamarin.Forms/XamarinForms/XamarinForms.Droid/bin/Debug
+/Xamarin.Forms/XamarinForms/XamarinForms.Droid/obj/Debug
