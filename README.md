@@ -14,3 +14,21 @@ http://es6-features.org/#BlockScopedVariables
 
 OWIN samples
 https://docs.microsoft.com/en-us/aspnet/aspnet/overview/owin-and-katana/katana-samples
+
+
+FACEBOOK SUCKS
+This is how i solved this problem
+Downloaded your APK to your PC in java jdk\bin folder
+
+C:\Program Files\Java\jdk1.7.0_79\bin
+
+go to java jdk\bin folder and run cmd then
+copy the following command in your cmd
+
+keytool -list -printcert -jarfile apkname.apk
+
+Copy the SHA1 value to your clip board
+like this CD:A1:EA:A3:5C:5C:68:FB:FA:0A:6B:E5:5A:72:64:DD:26:8D:44:84
+and open http://tomeko.net/online_tools/hex_to_base64.php177 to convert your SHA1 value to base64. This is what Facebook requires
+get
+zaHqo1xcaPv6CmvlWnJk3SaNRIQ= as our keyhash.
