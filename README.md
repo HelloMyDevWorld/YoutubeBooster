@@ -32,3 +32,7 @@ like this CD:A1:EA:A3:5C:5C:68:FB:FA:0A:6B:E5:5A:72:64:DD:26:8D:44:84
 and open http://tomeko.net/online_tools/hex_to_base64.php177 to convert your SHA1 value to base64. This is what Facebook requires
 get
 zaHqo1xcaPv6CmvlWnJk3SaNRIQ= as our keyhash.
+
+
+Robot Cam
+https://docs.google.com/file/d/0B8b-I3PiuN9lWTROajdCeldSYW8/edit
