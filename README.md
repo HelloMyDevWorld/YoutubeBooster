@@ -36,3 +36,7 @@ zaHqo1xcaPv6CmvlWnJk3SaNRIQ= as our keyhash.
 
 Robot Cam
 https://docs.google.com/file/d/0B8b-I3PiuN9lWTROajdCeldSYW8/edit
+
+
+ADO/net
+https://support.microsoft.com/pl-pl/help/307587/how-to-update-a-database-from-a-dataset-object-by-using-visual-c-2005-or-visual-c-.net
