@@ -1,4 +1,13 @@
-            DataSet sql_creator = new DataSet();
+   static class SubstringContain {
+        public static bool SubstringContains(this string fullstring, string substing) {
+            if (fullstring.IndexOf(substing, 0, fullstring.Length) != -1) {
+                return true;
+            }
+            return false;
+        }
+    }         
+
+DataSet sql_creator = new DataSet();
             System.IO.FileStream xml_reader = new System.IO.FileStream(@"C:\Users\800PatSa\Desktop\AntiMoneyLaundryXML\Dow_Jones_PEP_V4.xsd", System.IO.FileMode.Open);
             try {
                 sql_creator.ReadXml(xml_reader);
