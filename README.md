@@ -49,3 +49,4 @@ DATASET
 https://docs.microsoft.com/en-us/aspnet/web-forms/overview/data-access/introduction/creating-a-data-access-layer-cs
 https://msdn.microsoft.com/en-us/library/04y282hb.aspx
 http://stackoverflow.com/questions/751511/validating-an-xml-against-referenced-xsd-in-c-sharp
+http://stackoverflow.com/questions/2298637/read-typed-objects-from-xml-using-known-xsd
