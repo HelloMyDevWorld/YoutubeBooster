@@ -4,3 +4,6 @@ Read file parallel:
 
 Neural Network:
 - https://stevenmiller888.github.io/mind-how-to-build-a-neural-network/
+
+Sql Search:
+- http://vyaskn.tripod.com/search_all_columns_in_all_tables.htm
