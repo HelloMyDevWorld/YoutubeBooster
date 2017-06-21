@@ -7,3 +7,4 @@ Neural Network:
 
 Sql Search:
 - http://vyaskn.tripod.com/search_all_columns_in_all_tables.htm
+- https://www.mssqltips.com/sqlservertip/1522/searching-and-finding-a-string-value-in-all-columns-in-a-sql-server-table/
