@@ -11,6 +11,7 @@ Sql Search:
 
 Sql engine:
 - https://stackoverflow.com/questions/103167/what-is-the-difference-between-ole-db-and-odbc-data-sources
+- https://msdn.microsoft.com/pl-pl/library/dw70f090(v=vs.110).aspx#_SqlClient
 
 Tools:
 - ApexSQL Search
