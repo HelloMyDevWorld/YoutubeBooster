@@ -14,3 +14,4 @@ Tools:
 - ApexSQL Search
 - Resharper
 - OzCode
+- https://docs.microsoft.com/en-us/sql/relational-databases/performance/performance-monitoring-and-tuning-tools
