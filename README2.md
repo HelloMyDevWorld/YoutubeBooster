@@ -22,3 +22,13 @@ Tools:
 
 ADO.NET MARS
 If you use DataReader in your applications, you already might have seen the dreaded error message: "There is already an open DataReader associated with this Connection which must be closed first." MARS allows you to avoid this message by allowing you to open multiple SqlDataReader objects on a single connection. MARS enables an application to have more than one SqlDataReader open on a connection when each instance of SqlDataReader is started from a separate command. Each SqlCommand object you add adds an additional session to the connection.
+
+Ludki:
+
+https://dzone.com/
+martin fowler
+rober c martin
+sławomir sobótka
+book DDD
+software craftmanship
+clean code robert c martin
