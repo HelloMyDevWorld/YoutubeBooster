@@ -32,3 +32,6 @@ sławomir sobótka
 book DDD
 software craftmanship
 clean code robert c martin
+
+
+https://stackoverflow.com/questions/43891215/c-sharp-cast-with-gettype-and-reflection
