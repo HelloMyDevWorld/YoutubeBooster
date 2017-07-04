@@ -1,3 +1,5 @@
+
+
 Read file parallel:
 - http://stackoverflow.com/questions/17188357/read-large-txt-file-multithreaded
 - http://stackoverflow.com/questions/20928705/read-and-process-files-in-parallel-c-sharp
@@ -35,3 +37,5 @@ clean code robert c martin
 
 
 https://stackoverflow.com/questions/43891215/c-sharp-cast-with-gettype-and-reflection
+
+Debugowanie .NET. Zaawansowane techniki diagnostyczne
