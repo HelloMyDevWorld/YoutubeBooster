@@ -44,3 +44,6 @@ Debugowanie .NET. Zaawansowane techniki diagnostyczne
 Testy automatyczne
 SoapUI
 Rest Assured http://rest-assured.io/
+
+
+http://syedwasihaider.github.io/blog/2015/07/12/XamarinViews/
