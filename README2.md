@@ -1,6 +1,8 @@
 
 
 
+
+
 Read file parallel:
 - http://stackoverflow.com/questions/17188357/read-large-txt-file-multithreaded
 - http://stackoverflow.com/questions/20928705/read-and-process-files-in-parallel-c-sharp
@@ -47,3 +49,9 @@ Rest Assured http://rest-assured.io/
 
 
 http://syedwasihaider.github.io/blog/2015/07/12/XamarinViews/
+
+
+Google Maps:
+http://jsfiddle.net/qmhku4dh/
+http://android-er.blogspot.com/2013/06/embed-html-using-google-maps-javascript.html
+https://stackoverflow.com/questions/19087352/capture-coordinates-in-google-map-on-user-click
