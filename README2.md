@@ -1,4 +1,4 @@
-
+-
 
 
 
@@ -52,6 +52,7 @@ http://syedwasihaider.github.io/blog/2015/07/12/XamarinViews/
 
 
 Google Maps:
-http://jsfiddle.net/qmhku4dh/
-http://android-er.blogspot.com/2013/06/embed-html-using-google-maps-javascript.html
-https://stackoverflow.com/questions/19087352/capture-coordinates-in-google-map-on-user-click
+-http://jsfiddle.net/qmhku4dh/
+-http://android-er.blogspot.com/2013/06/embed-html-using-google-maps-javascript.html
+-https://stackoverflow.com/questions/19087352/capture-coordinates-in-google-map-on-user-click
+-https://stackoverflow.com/questions/8784731/how-to-create-android-webview-to-share-my-location-to-a-website
