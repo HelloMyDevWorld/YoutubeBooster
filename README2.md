@@ -57,6 +57,7 @@ Google Maps:
 - https://stackoverflow.com/questions/19087352/capture-coordinates-in-google-map-on-user-click
 - https://stackoverflow.com/questions/8784731/how-to-create-android-webview-to-share-my-location-to-a-website
 - https://stackoverflow.com/questions/36209971/getting-location-in-webview-via-js
+- https://stackoverflow.com/questions/36630509/how-to-get-current-location-or-move-to-current-location-in-xamarin-forms-map
 
 
 
