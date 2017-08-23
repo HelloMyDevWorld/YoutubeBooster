@@ -60,6 +60,8 @@ Google Maps:
 - https://stackoverflow.com/questions/36630509/how-to-get-current-location-or-move-to-current-location-in-xamarin-forms-map
 
 
+React
+- https://blog.pusher.com/how-to-use-react-with-visual-studio-and-asp-net-web-api/
 
 https://webmail.hatteland.com/owa/
 
