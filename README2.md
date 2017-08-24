@@ -70,3 +70,5 @@ http://ejournalarchive.banqsoft.no/bin/ticket.exe
 https://banqsoftprod.service-now.com/nav_to.do?uri=%2Fhome.do
 
 https://webmail.hatteland.com/owa/
+
+- https://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version
